@@ -24,4 +24,4 @@ Despite providing at least _some_ inflation protection, there is criticism about
 
 ## When to withdraw
 
-...
+There is an interesting article on the social security website: [Discount Rate Specification and the Social Security Claiming Decision.](https://www.ssa.gov/policy/docs/ssb/v76n2/v76n2p1.html).
