@@ -15,6 +15,11 @@ These are my notes on social security benefits, where particular analyses will b
 Social security income is _typically_ not taxed at the state level (**clarify!**) and can only have 85% of its value be considered in federal taxes.  [_Citation?_]
 
 
+## Medicare
+
+In [the medicare document](./medicare.md), it's noted that the current costs are (**2026**) $202.90 per month, which is _deducted_ from social security.  This is to say that the take-home social security payout is decreased by this amount, even when not considering tax costs.
+
+
 ## Inflation
 
 Social security benefits scale with the CPI-W, which is the Consumer Price Index for Urban Wage Earners and Clerical Workers.  Historical increases can be found on [the social security website](https://www.ssa.gov/oact/cola/colaseries.html).  
