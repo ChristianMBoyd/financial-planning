@@ -30,3 +30,35 @@ Despite providing at least _some_ inflation protection, there is criticism about
 ## When to withdraw
 
 There is an interesting article on the social security website: [Discount Rate Specification and the Social Security Claiming Decision.](https://www.ssa.gov/policy/docs/ssb/v76n2/v76n2p1.html).
+
+
+## Family/spousal benefits
+
+### Living benefits
+
+From what I can tell, these apply to people claiming benefits for a living family member.  According to [the family eligibility site](https://www.ssa.gov/family/eligibility), spouses can claim social security benefits of their spouse if:
+- they are also 62+ (social security age)
+- they care for children under 15
+- they care for disabled children (any age)
+
+Ex-spouses who were married for 10+ years are also included.
+
+Unmarried children in K-12 or under 18 are also included, unless they became disabled before 21, in which case they are also qualified.
+
+According to [the site on amounts](https://www.ssa.gov/family/amount), the spousal/familial benefit is _up to_ half the benefit amount of the person whose social security benefits are in question.  There is a maximum _family_ benefit, and all those claiming could have there amounts reduced to not exceed this maximum.
+
+### Survivor benefits
+
+From what I can tell, these criteria and values apply to living spouses/family of someone who qualified for social security.  According to [the survivor eligibility page](https://www.ssa.gov/survivor/eligibility), spouses can claim if:
+- they are 60 or older
+- they were married at least 9 months before the death of their spouse
+- they didn't remarry before 60
+Confusingly, it also goes on to state that you may be eligible for benefits even if you don't meet these criteria.
+
+Ex-spouses married longer than 10 year _may_ also be eligible.
+
+The same rules apply to children as above in [living benefits](#living-benefits).
+
+Parents 62 or older who were financially supported by their child _may_ also be eligible.
+
+According to [the site on benefit amounts](https://www.ssa.gov/survivor/amount), spouses and ex-spouses qualify for the full amount based on the age when they claim (71.5% at 61 up to full at 66-67).  Children, however, can only get up to 75% of the benefits and there is a maximum _family_ payout that can lower everyone's benefits.
