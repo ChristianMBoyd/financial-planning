@@ -24,7 +24,7 @@ In [the medicare document](./medicare.md), it's noted that the current costs are
 
 Social security benefits scale with the CPI-W, which is the Consumer Price Index for Urban Wage Earners and Clerical Workers.  Historical increases can be found on [the social security website](https://www.ssa.gov/oact/cola/colaseries.html).  
 
-Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner anyway.
+Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
 
 
 ## When to withdraw
@@ -67,3 +67,5 @@ According to [the site on benefit amounts](https://www.ssa.gov/survivor/amount),
 #### Lump sum $255 payment
 
 Spouses--and _possible_ children-- are eligible for a $255, one-time payment upon the death of their spouse.  This is in addition to the spousal benefits, and is meant to help cover some of the cost of death.
+
+See [the site on lump-sum death payment](https://www.ssa.gov/personal-record/when-someone-dies/lump-sum-death-payment).
