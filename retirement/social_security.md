@@ -14,6 +14,8 @@ These are my notes on social security benefits, where particular analyses will b
 
 Qualifying for a railroad pension explicitly disqualifies those railroad earnings from counting toward social security benefits.  See the railroad work section of [the earnings rules page](https://www.ssa.gov/prepare/special-earnings).
 
+There are varying degrees of benefits for work outside the U.S.  Each country with an agreement can be used to qualify for benefits, but cannot be used to double-dip beyond the point of qualification.  From the "work outside the United States" section of [the earnings rule page](https://www.ssa.gov/prepare/special-earnings): "_If you have enough credits in one country outside the U.S. but not the other, they won’t be combined. You'll only get benefits from the country where you qualify._"  Although, each country where you qualify can be claimed separately.
+
 
 ## Taxes
 
