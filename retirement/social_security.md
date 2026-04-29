@@ -10,6 +10,13 @@ These are my notes on social security benefits, where particular analyses will b
 - E.g., how much of an impact is social security timing vs. 401(k) benefits, or when can you access retirement accounts vs. social security?
 
 
+## Work Qualification
+
+Qualifying for a railroad pension explicitly disqualifies those railroad earnings from counting toward social security benefits.  See the railroad work section of [the earnings rules page](https://www.ssa.gov/prepare/special-earnings).
+
+There are varying degrees of benefits for work outside the U.S.  Each country with an agreement can be used to qualify for benefits, but cannot be used to double-dip beyond the point of qualification.  From the "work outside the United States" section of [the earnings rule page](https://www.ssa.gov/prepare/special-earnings): "_If you have enough credits in one country outside the U.S. but not the other, they won’t be combined. You'll only get benefits from the country where you qualify._"  Although, each country where you qualify can be claimed separately.
+
+
 ## Taxes
 
 Social security income is _typically_ not taxed at the state level (**clarify!**) and can only have 85% of its value be considered in federal taxes.  [_Citation?_]
@@ -30,6 +37,8 @@ Despite providing at least _some_ inflation protection, there is criticism about
 ## When to withdraw
 
 There is an interesting article on the social security website: [Discount Rate Specification and the Social Security Claiming Decision.](https://www.ssa.gov/policy/docs/ssb/v76n2/v76n2p1.html).
+
+The social security website is terrible at plainly spelling out this information, I think because they want to personalize the data for retirees in their online profile.  The best I can find so far on how the payout for different claiming ages is calculated is based on [this table](https://www.ssa.gov/benefits/retirement/planner/1960.html) for percentage return by claiming age, the discussion in [this online tool](https://www.ssa.gov/OACT/quickcalc/early_late.html) (particularly about the 8% benefit per delayed year up to 70), and the example columns in [this actuarial table](https://www.ssa.gov/OACT/ProgData/ar_drc.html).
 
 
 ## Family/spousal benefits
