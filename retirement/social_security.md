@@ -10,6 +10,11 @@ These are my notes on social security benefits, where particular analyses will b
 - E.g., how much of an impact is social security timing vs. 401(k) benefits, or when can you access retirement accounts vs. social security?
 
 
+## Work Qualification
+
+Qualifying for a railroad pension explicitly disqualifies those railroad earnings from counting toward social security benefits.  See the railroad work section of [the earnings rules page](https://www.ssa.gov/prepare/special-earnings).
+
+
 ## Taxes
 
 Social security income is _typically_ not taxed at the state level (**clarify!**) and can only have 85% of its value be considered in federal taxes.  [_Citation?_]
