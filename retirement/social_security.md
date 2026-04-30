@@ -36,7 +36,7 @@ Despite providing at least _some_ inflation protection, there is criticism about
 
 ## When to withdraw
 
-There is an interesting article on the social security website: [Discount Rate Specification and the Social Security Claiming Decision.](https://www.ssa.gov/policy/docs/ssb/v76n2/v76n2p1.html).
+There is an interesting article on the social security website: [Discount Rate Specification and the Social Security Claiming Decision.](https://www.ssa.gov/policy/docs/ssb/v76n2/v76n2p1.html).  A somewhat helpful summary is also on [Charles Schwab's website](https://www.schwab.com/learn/story/guide-on-taking-social-security).
 
 The social security website is terrible at plainly spelling out this information, I think because they want to personalize the data for retirees in their online profile.  The best I can find so far on how the payout for different claiming ages is calculated is based on [this table](https://www.ssa.gov/benefits/retirement/planner/1960.html) for percentage return by claiming age, the discussion in [this online tool](https://www.ssa.gov/OACT/quickcalc/early_late.html) (particularly about the 8% benefit per delayed year up to 70), and the example columns in [this actuarial table](https://www.ssa.gov/OACT/ProgData/ar_drc.html).
 
