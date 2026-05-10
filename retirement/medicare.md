@@ -22,3 +22,10 @@ For low-income or disabled retirees, there are additional resources.
 According to [the extra help site](https://www.medicare.gov/basics/costs/help/drug-costs), couples require an income limit of under $33,000 and total resource limit of under $36,000 to qualify.
 
 Apparently, medicare will reach out to you to let you know that you qualify, and automatically enroll you in Medicare part D (the drug plan).
+
+
+## Specific use cases
+
+### Insulin
+
+There is [a page on medicare's website](https://www.medicare.gov/coverage/insulin) devoted to insulin.
