@@ -35,4 +35,6 @@ Apparently, medicare will reach out to you to let you know that you qualify, and
 
 There is [a page on medicare's website](https://www.medicare.gov/coverage/insulin) devoted to insulin.
 
-A non-disposable insulin pump appears to be considered [durable medical equipment](https://www.medicare.gov/coverage/durable-medical-equipment-dme-coverage), which is (or _should_ be) covered under Medicare Part B without additional prescription costs for insulin.
+A non-disposable insulin pump appears to be considered [durable medical equipment](https://www.medicare.gov/coverage/durable-medical-equipment-dme-coverage) (DME), which is (or _should_ be) covered under Medicare Part B without additional prescription costs for insulin.  Unfortunately, this means that you will still need to pay 20% of the Medicare cost _after_ your deductible is reached.  Make sure that your doctor and the device manufacturer participate in Medicare, as manufacturers in particular are not required to participate.
+
+If you don't use a DME-approved insulin pump, your insulin costs should be covered by Part D coverage; i.e., you'll need and want to select the Part D plan that best covers your costs.
