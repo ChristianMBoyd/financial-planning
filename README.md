@@ -1,3 +1,3 @@
 # financial-planning
 
-This is a repo to hold notes and references useful to financial planning.
+This is where I keep notes and references useful for financial planning.
