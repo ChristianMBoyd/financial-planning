@@ -1,2 +1,3 @@
 # financial-planning
-A repo to hold some basic calculations for financial planning considerations.
+
+This is where I keep notes and references useful for financial planning.
