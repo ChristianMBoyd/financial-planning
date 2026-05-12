@@ -13,7 +13,9 @@ According to [HHS](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-elig
 
 ### When to sign up
 
-Much of this information is based on [the medicare site to determine when to sign up](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare).  If you are already retired, you should sign up when you turn 65 to avoid penalties, particularly for Part B (10% extra per year delayed, for life) and Part D (12% extra per year delayed, for life).  Otherwise, you might have some leeway based whether your employer provides health insurance.  If your employer employs 20+ people and provides health insurance for you and your spouse, you have 8 months _after_ retiring to apply for medicare.
+Much of this information is based on [the medicare site to determine when to sign up](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare).  Broadly, you should sign up for Part A insurance when you turn 65, as there is typically no premium.  If you are already retired, you should sign up for Part B and Part D when you turn 65 to avoid penalties.  Part B penalties are 10% additional cost per year delayed (for life) and Part D is 12% extra cost per year delayed (for life).  Otherwise, you might have some leeway based whether your employer provides health insurance.  If your employer employs 20+ people and provides health insurance for you and your spouse, you have 8 months _after_ retiring to apply for medicare.  Additionally, however, you must meet the requirement for "creditable prescription drug coverage" to not pay Part D penalties, which means having coverage that is expected to pay at least as much as Medicare Part D.
+
+There are more details on [this page about working past 65](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65).  In general, you should check with your insurance provider and/or benefits administrator to see if your health coverage allows you to delay Medicare Part B and/or Part D without penalty.
 
 #### HSA technicality
 
@@ -23,6 +25,8 @@ Also according to [the medicare site on when to sign up](https://www.medicare.go
 ## Components
 
 The information below is from t[he parts of medicare page](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare).  It covers Part A, Part B, Part D, and supplemental coverage.
+
+How original Medicare vs. Medicare Advantage operate in practice is somewhat covered by t[his page on how Medicare works](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/how-does-medicare-work).
 
 ### Part A
 
@@ -48,7 +52,7 @@ You can visit any doctor, hospital, or pharmacy nationwide that accepts medicare
 
 ### Medicare Advantage
 
-This is a Medicare-approved private plan, which is more like a HMO, where you're restricted to a network of hospitals and physicians (and possibly even pharmacies).  Often prescription drug (Part D) coverage is included.  There may be out-of-pocket maximums, eliminating reliance on Medigap, and additional coverage for vision, dental, or more.
+This is a Medicare-approved private plan, which is more like a HMO, where you're restricted to a network of hospitals and physicians (and possibly even pharmacies).  Often prescription drug (Part D) coverage is included.  There may be out-of-pocket maximums, eliminating reliance on Medigap, and additional coverage for vision, dental, or more.  On the flip side, however, [this page on how Medicare works](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/how-does-medicare-work) states that Medicare Advantage _cannot_ be paired with supplemental insurance like Medigap.
 
 
 ## Exclusions
