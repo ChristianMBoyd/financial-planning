@@ -2,20 +2,89 @@
 
 Because healthcare costs are tied to health insurance, retirees will likely need to consider the costs of health insurance unless they are eligible to receive medicare.  As a result, medicare information is relevant for retirement planning.
 
+## General information
+
+Almost everything here is taken from the medicare website, https://www.medicare.gov . There are different paths from [the getting started page](https://www.medicare.gov/basics/get-started-with-medicare), where the "before 65" link seems to cover more basic information.
+
 
 ## Eligibility
 
 According to [HHS](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html) and [medicare](https://www.medicare.gov/eligibilitypremiumcalc#/eligibility) websites, medicare is available to citizens 65 or older, who have paid medicare taxes for 10 years.  
 
 
-## Cost
+## Components
+
+The information below is from t[he parts of medicare page](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare).  It covers Part A, Part B, Part D, and supplemental coverage.
+
+### Part A
+
+This is hospital insurance, which also includes inpatient care at nursing homes or hospice care.
+
+### Part B
+
+This is the more typical medical insurance, which covers doctors visits, durable medical equipment (DME), and preventative care.
+
+### Part D
+
+This is prescription drug coverage, which is not a required component of medicare.  Despite being controlled by Medicare, Part D involves a separate plan provided by a private insurance company.
+
+### Medigap
+
+This is supplemental insurance, meant to cover the _additional_ costs associated with using Medicare.  For example, you may owe copayments or coinsurance associated with DME.
+
+### Original Medicare
+
+Part A (hospital) and Part B (medical) are standard, and part D (prescription drug) coverage is optional.  An add-on would be something like Medigap, which covers your out-of-pocket costs.
+
+You can visit any doctor, hospital, or pharmacy nationwide that accepts medicare.
+
+### Medicare Advantage
+
+This is a Medicare-approved private plan, which is more like a HMO, where you're restricted to a network of hospitals and physicians (and possibly even pharmacies).  Often prescription drug (Part D) coverage is included.  There may be out-of-pocket maximums, eliminating reliance on Medigap, and additional coverage for vision, dental, or more.
 
 
-### Part B (2026 values)
+## Exclusions
 
+It's worth noting that original medicare _excludes_ a lot of typical health benefits like dental, vision, and hearing coverage.  See, for example, [the Medicare page on dental services](https://www.medicare.gov/coverage/dental-services).  These exclusions may warrant considering Medicare Advantage, or keeping the cost of an additional dental plan in mind.
+
+
+## Cost (2026 values)
+
+### Part A
+
+#### Premium
+According to [the costs page](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/what-does-medicare-cost), the hospital insurance is typically free for people who have paid taxes after working for at least 10 years.
+
+#### Deductible
+$1,736 for each hospital stay within a 60 day period.  This will be your maximum out-of-pocket cost, so long as your stay is 60 days or less.  Copayments ramp up drastically for 60-150 day stays, and all costs after 150 days are completely out-of-pocket, whether or not you've hit the deductible.
+
+
+### Part B
+
+#### Premium
 As of 2026, the [medicare cost sheet](https://www.medicare.gov/publications/11579-medicare-costs.pdf) lists the monthly cost for Medicare part B as $202.90 per month for lower and typical income households.  The cost will increase, up to nearly $700/month if your household income exceeds $750,000 as a couple, or $500,000 as an individual.  Notably, this excludes the deductible or worst-case hospital stay.  According to medicare, this is deducted from social security checks.
 
-The deductible is $283, which must be paid before medicare will cover costs.  If you can expect to typically rely on medicare coverage, this comes out to an additional $23.60, so that your real monthly medicare costs for Part B coverage are just under $226.50 per month.  I believe the $202.90 will be deducted from social security, but the deductible will be paid out of pocket rather than withheld.
+There is a penaly if you sign up for Medicare Part B late (i.e., after you turn 65).  It is a pretty significant 10% penalty per year you signed up late, which is paid _for life_.
+
+#### Deductible
+The deductible is $283, which must be paid before medicare will cover costs.  If you can expect to typically rely on medicare coverage, this comes out to an additional $23.60/mo, so that your real monthly medicare costs for Part B coverage are just under $226.50 per month.  I believe the $202.90 will be deducted from social security, but the deductible will be paid out of pocket rather than withheld.
+
+After the deductible is paid, you will still typically pay 20% of the Medicare-approved cost unless you have Medigap (or similar) coverage.
+
+
+### Part D
+
+#### Premiums
+[The medicare costs page](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/what-does-medicare-cost) is somewhat sparse here, as these are private plans and apparently vary by location.  Online, it sounds like premiums may start low, but that actual coverage (formularies, or specific drugs they pay for) varies quite a lot.
+
+There is also a penalty of 1% per _month_ you don't sign up for Part D coverage if you change your mind.  That's 12% per year late that you sign up for Part D coverage if you end up needing it later in life.
+
+#### Deductible
+The cost page is sparse here again, but some reddit results returned around $2,100 as the typical out-of-pocket maximum.  This only covers in-formulary drugs, however, and drugs outside of that list may have limitless costs even if they're discounted.
+
+### Part C (Medicare Advantage) and Medigap
+
+As these are private plans, there is no clear numerical values on [the medicare cost page](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/what-does-medicare-cost).
 
 
 ## Supplemental coverage
