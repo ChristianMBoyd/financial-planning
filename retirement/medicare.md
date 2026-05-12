@@ -11,6 +11,14 @@ Almost everything here is taken from the medicare website, https://www.medicare.
 
 According to [HHS](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html) and [medicare](https://www.medicare.gov/eligibilitypremiumcalc#/eligibility) websites, medicare is available to citizens 65 or older, who have paid medicare taxes for 10 years.  
 
+### When to sign up
+
+Much of this information is based on [the medicare site to determine when to sign up](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare).  If you are already retired, you should sign up when you turn 65 to avoid penalties, particularly for Part B (10% extra per year delayed, for life) and Part D (12% extra per year delayed, for life).  Otherwise, you might have some leeway based whether your employer provides health insurance.  If your employer employs 20+ people and provides health insurance for you and your spouse, you have 8 months _after_ retiring to apply for medicare.
+
+#### HSA technicality
+
+Also according to [the medicare site on when to sign up](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare), you should stop contributing to an HSA account 6 months prior to applying for Medicare.  Apparently, Part A coverage begins 6 months retroactively, and voids the ability to contribute to an HSA account; i.e., your deposits up to 6 months prior to enrolling can incur tax penalties
+
 
 ## Components
 
