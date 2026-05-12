@@ -62,6 +62,8 @@ It's worth noting that original medicare _excludes_ a lot of typical health bene
 
 ## Cost (2026 values)
 
+There is another page showing most of these costs on medicare's website that's worth keeping for reference: https://www.medicare.gov/basics/costs/medicare-costs . 
+
 ### Part A
 
 #### Premium
