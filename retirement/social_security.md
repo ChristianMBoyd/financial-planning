@@ -27,7 +27,7 @@ Social security income is _typically_ not taxed at the state level (**clarify!**
 
 ## Medicare
 
-In [the medicare document](./medicare.md), it's noted that the current costs are (**2026**) $202.90 per month, which is _deducted_ from social security.  This is to say that the take-home social security payout is decreased by this amount, even when not considering tax costs.
+In [the medicare document](./medicare.md), it's noted that the current costs are (**2026**) $202.90 per month, which is _deducted_ from social security.  As a result, your take-home social security amount will be reduced by _at least_ this amount once eligible for Medicare Part B, unless you choose another health insurance option in retirement.
 
 
 ## Inflation
