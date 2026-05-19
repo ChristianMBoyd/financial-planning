@@ -37,11 +37,13 @@ Social security benefits scale with the CPI-W, which is the Consumer Price Index
 Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
 
 
-## When to withdraw
+## When to claim
 
 There is an interesting article on the social security website: [Discount Rate Specification and the Social Security Claiming Decision.](https://www.ssa.gov/policy/docs/ssb/v76n2/v76n2p1.html).  A somewhat helpful summary is also on [Charles Schwab's website](https://www.schwab.com/learn/story/guide-on-taking-social-security).
 
-The social security website is terrible at plainly spelling out this information, I think because they want to personalize the data for retirees in their online profile.  The best I can find so far on how the payout for different claiming ages is calculated is based on [this table](https://www.ssa.gov/benefits/retirement/planner/1960.html) for percentage return by claiming age, the discussion in [this online tool](https://www.ssa.gov/OACT/quickcalc/early_late.html) (particularly about the 8% benefit per delayed year up to 70), and the example columns in [this actuarial table](https://www.ssa.gov/OACT/ProgData/ar_drc.html).
+The easiest ways for retirees to compare their benefits across different claiming ages is by logging into their personalized account at https://www.ssa.gov/. General information is scattered across their website, such as [this table](https://www.ssa.gov/benefits/retirement/planner/1960.html) for percentage return by claiming age, the discussion in [this online tool](https://www.ssa.gov/OACT/quickcalc/early_late.html) (particularly about the 8% benefit per delayed year up to 70), and the example columns in [this actuarial table](https://www.ssa.gov/OACT/ProgData/ar_drc.html).
+
+The decision to withdraw depends on whether you have a spouse who depends on your benefits, whose benefits exceed yours, or whether you even have a spouse at all.  Because of the [spousal benefits](#survivor-benefits), you'll want to consider delaying the higher earner's benefits to age 70 so that you can maximize the lifetime payout.  Otherwise, it's largely a question of weighing the delayed social security benefit increase (based on your life expectancy) vs. more rapidly drawing down other retirement funds.
 
 
 ## Family/spousal benefits
