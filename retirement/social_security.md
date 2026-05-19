@@ -1,14 +1,16 @@
 # Social Security
 
-These are my notes on social security benefits, where particular analyses will be worked out separately.
+These are general facts about social security.  Detailed derivations or analyses should be done elsewhere.
 
 
 ## Open Questions
-- How much can you expect?
-- What are the tradeoffs in immediately claiming vs. deferring?  Can you work while claiming it?
+- What are the precise penalties to working while claiming social security?
 - What’s the realistic uncertainty in long-term stability (political, economical, or otherwise) of social security?
-- E.g., how much of an impact is social security timing vs. 401(k) benefits, or when can you access retirement accounts vs. social security?
+- What's the ideal strategy for discounting the increased social security payout for deferring until 70 vs. drawing down alternative funds like a 401(k)?
 
+## Determining how much you'll get
+
+You can log into https://www.ssa.gov/ using either an activate login.gov or id.me account.  Their web portal provides an estimator based on your current wages and earnings history.  It also provides a simple way to compare your benefit amounts based on claiming between 62 and 70 years of age.
 
 ## Work Qualification
 
