@@ -48,38 +48,60 @@ The decision to withdraw depends on whether you have a spouse who depends on you
 
 ## Family/spousal benefits
 
+It's worth noting that, no matter the benefit, an individual (e.g., a child or spouse) can only receive one social security benefit, whether it's their own, a living benefit, or a survivor benefit.  When claiming benefits based on a family member or spouse, the highest of any available amounts will be the one received.  See, for example, the discussion under "Survivor and other benefits" on [the survivor amount page](https://www.ssa.gov/survivor/amount).
+
 ### Living benefits
 
-From what I can tell, these apply to people claiming benefits for a living family member.  According to [the family eligibility site](https://www.ssa.gov/family/eligibility), spouses can claim social security benefits of their spouse if:
+Spouses and children can claim social security benefits of a living family member given certain criteria.
+
+According to [the site on amounts](https://www.ssa.gov/family/amount), the spousal/familial benefit is _up to_ half the benefit amount of the person whose social security benefits are in question.  There is a maximum _family_ benefit, and all those claiming could have there amounts reduced to not exceed this maximum.
+
+#### Spouses
+
+According to [the family eligibility site](https://www.ssa.gov/family/eligibility), spouses can claim social security benefits based on their spouse's eligibility if:
 - they are also 62+ (social security age)
 - they care for children under 15
 - they care for disabled children (any age)
 
 Ex-spouses who were married for 10+ years are also included.
 
-Unmarried children in K-12 or under 18 are also included, unless they became disabled before 21, in which case they are also qualified.
+For example, a stay-at-home mom can still claim social security benefits based on her partner's eligibilty, for up to a 50% benefit.
 
-According to [the site on amounts](https://www.ssa.gov/family/amount), the spousal/familial benefit is _up to_ half the benefit amount of the person whose social security benefits are in question.  There is a maximum _family_ benefit, and all those claiming could have there amounts reduced to not exceed this maximum.
+#### Children
+
+Unmarried children in K-12 or under 18 are also included, unless they became disabled before 21, in which case they are also qualified.
 
 ### Survivor benefits
 
-From what I can tell, these criteria and values apply to living spouses/family of someone who qualified for social security.  According to [the survivor eligibility page](https://www.ssa.gov/survivor/eligibility), spouses can claim if:
+According to [the survivor eligibility page](https://www.ssa.gov/survivor/eligibility), spouses and children can claim social security benefits based on a deceased family member.
+
+According to [the site on benefit amounts](https://www.ssa.gov/survivor/amount), spouses and ex-spouses qualify for the full amount based on the age when they claim (71.5% at 61 up to full at 66-67).  Children, however, can only get up to 75% of the benefits and there is a maximum _family_ payout that can lower everyone's benefits.
+
+#### Spouses
+
+Spouses can claim the social security benefits of their deceased partner if:
 - they are 60 or older
 - they were married at least 9 months before the death of their spouse
 - they didn't remarry before 60  
 
-Confusingly, it also goes on to state that you may be eligible for benefits even if you don't meet these criteria.  For example, if you are currently caring for a child of the deceased spouse then you may qualify no matter the age and length of the marriage.
+Confusingly, it also goes on to state that you may be eligible for benefits even if you don't meet these criteria.  A specific exception is if you are currently caring for a child of the deceased spouse (either under 18, or disabled), but there are also exceptions for disabled surviving spouses.
 
-Ex-spouses married longer than 10 year _may_ also be eligible.
+Ex-spouses married longer than 10 years _may_ also be eligible.
+
+The spousal benefits according to [the survivor benefits page](https://www.ssa.gov/survivor/amount) start at 71.5% of the spouses's benefits if you claim at 60, and increase up to 100% of the amount if claimed at _your_ full retirement age (typically 67 moving forward).  Notably, the amount used is the actual benefit either paid to the deceased spouse at the time of death, or the amount they woudl be eligible for if they had claimed.  This is not very clearly spelled out on the social security website, but clarified in library of congress CRS products related to [survivor benefits](https://www.congress.gov/crs-product/RS22294) and [widower's provisions](https://www.congress.gov/crs-product/IF12091). For example, a 68 year old spouse who died today before claiming would enable a 67 year old widow to claim 100% of their benefits, which includes the delayed claiming credits for waiting past age 67.  This is increasingly important for single-income households, or those where one spouse has a higher social security benefit.  Delaying claiming for the higher earning spouse until 70 ensures that the longest-lived spouse will receive the delayed retirement credits for life.
+
+In [an informational document](https://www.ssa.gov/pubs/EN-05-10084.pdf), it's stated that survivor benefits can be found in your personalized social security account at https://www.ssa.gov/myaccount/.
+
+#### Children
 
 The same rules apply to children as above in [living benefits](#living-benefits).
 
-Parents 62 or older who were financially supported by their child _may_ also be eligible.
+#### Parents
 
-According to [the site on benefit amounts](https://www.ssa.gov/survivor/amount), spouses and ex-spouses qualify for the full amount based on the age when they claim (71.5% at 61 up to full at 66-67).  Children, however, can only get up to 75% of the benefits and there is a maximum _family_ payout that can lower everyone's benefits.
+Parents 62 or older who were financially supported by their child _may_ also be eligible.
 
 #### Lump sum $255 payment
 
-Spouses--and _possible_ children-- are eligible for a $255, one-time payment upon the death of their spouse.  This is in addition to the spousal benefits, and is meant to help cover some of the cost of death.
+Spouses--and _possible_ children--are eligible for a $255, one-time payment upon the death of their spouse.  This is in addition to the spousal benefits, and is meant to help cover some of the cost of death.
 
 See [the site on lump-sum death payment](https://www.ssa.gov/personal-record/when-someone-dies/lump-sum-death-payment).
