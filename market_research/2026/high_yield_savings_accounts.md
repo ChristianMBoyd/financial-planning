@@ -33,6 +33,7 @@ According to [their site on 360 performance savings](https://www.capitalone.com/
 - 3.10% APY
 - FDIC insured (looks like only up to $250,000 according to [their page on FDIC details](https://www.capitalone.com/bank/fdic/))
 - no minimums
+- according to [their disclosures](https://www.capitalone.com/bank/disclosures/savings-accounts/online-performance-savings-account/), transfers seem to only be limited by fraud prevention and not account restrictions
 
 I didn't see as many additional promises, like 0 restrictions on external transfers, but this looks like a reasonable account with a somewhat lower APY.
 
