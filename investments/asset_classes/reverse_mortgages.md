@@ -15,6 +15,23 @@ According to [the FTC website on reverse mortgages](https://consumer.ftc.gov/art
 - participate in a counseling session with [a HUD counselor](https://answers.hud.gov/housingcounseling/s) to determine suitability
 - not have outstanding federal debt, like unpaid taxes (or other risks for asset garnishment or forfeiture)
 
+## Types of reverse mortgages
+
+These types are described in [the FTC article on reverse mortgages](https://consumer.ftc.gov/articles/reverse-mortgages).
+
+### Home Equity Conversion Mortgages (HECM)
+
+The most common type, which is part of a federal program (i.e., the lender has some federal insurance for defaults).  The borrower is _generally_ allowed to live in a long-term care facility for up to 12 months before considered to have moved out of the property.
+
+### Single-purpose reverse mortgages
+
+Offered by state and local governments, or non-profits.  The fees and/or interest on these reverse mortgages are typically the cheapest, because they required the borrower to put the funds toward a specific purpose as part of the loan agreement.  E.g., the borrower may be required to use the funds for needed home repairs.
+
+### Proprietary (private) reverse mortgages
+
+Typically the most expensive, but may be a way to get the most equity out of your home, as other programs often restrict the equity withdrawal to some percentage of the home's value.  Borrowers should strongly consider the interest and fee costs despite apparently larger payouts.
+
+
 ## Benefits
 
 ### Access home equity without requiring loan payments
@@ -43,3 +60,14 @@ Once you take out a reverse mortgage, you must pay the balance (or, up to the am
 ### Maintenance, taxes, and insurance liability
 
 Borrowers must still maintain their home, stay up-to-date on property taxes, and keep an active home insurance policy, or else they risk losing their home.  If a borrower is illiquid enough to consider a reverse mortgage, it must seriously be considered if they have sufficient income and ability to care for the property over the term of the reverse mortgage.
+
+### Must carefully read terms and conditions
+
+Most reverse mortgages have a non-recourse clause, where you can't owe more than the value of the home when it's sold.  Further, most have a reasonable allowance for hospital stays or long-term care before the borrower is considered to have moved out.  Nevertheless, you must carefully read the terms and conditions of the reverse mortgage to be sure that there are no surprises when the loan comes due or if the borrower endures a long hospital stay.
+
+## Alternatives
+
+Prospective reverse mortgage borrowers should consider the circumstances that led them to a reverse mortgage, and whether they're better served by an financial decision.  Consider, for example:
+- a HELOC or home-equity loan if you have a sufficient income source
+- refinancing if the motivation for a reverse mortage is the monthly mortgage cost
+- selling your home and downsizing to avoid the increased debt/cost of a reverse mortgage
