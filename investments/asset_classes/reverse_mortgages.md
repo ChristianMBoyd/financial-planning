@@ -14,7 +14,7 @@ Reverse mortgages are meant to be a way for older Americans to utilize their hom
 According to [the FTC website on reverse mortgages](https://consumer.ftc.gov/articles/reverse-mortgages), typical reverse mortgages require:
 - borrower must be 62 or older
 - live in the property used as collateral, which must be your primary residence
-- have significant equity (own most of your home)
+- have significant equity (own most of your home, small or no mortgage)
 - have income to maintain the property during the reverse mortgage period (insurance/taxes)
 - participate in a counseling session with [a HUD counselor](https://answers.hud.gov/housingcounseling/s) to determine suitability (this typically costs $125 or more)
 - not have outstanding federal debt, like unpaid taxes (or other risks for asset garnishment or forfeiture)
