@@ -46,3 +46,14 @@ According to [the page on high yield savings accounts](https://www.marcus.com/us
 - FDIC insured up to $250,000 per [the FAQs page](https://www.marcus.com/us/en/faqs)
 - According to [the FAQs page](https://www.marcus.com/us/en/faqs#maxlimits), there is a maximum account limit of $1m
 
+
+## Ally
+
+According to [the savings account page](https://www.ally.com/bank/online-savings-account/):
+- 3.1% APY
+- FDIC insured (the language suggests up to $250,000)
+- no fees
+- no minimum balance requirement
+- 10 transfer limit per statement cycle (presumably, one month +/- a day or two); may close account if continually exceeding
+
+Online users appear to enjoy Ally's savings buckets, and other savings tools, beyond just APY and low fees.
