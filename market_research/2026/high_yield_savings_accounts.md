@@ -6,7 +6,7 @@ The point of this document is to compare rates and ease-of-use across high yield
 
 It's worth pointing out some interesting alternatives that get at the same idea of a high-yield savings account.
 - Fidelity cash account and holding SPAXX or similar.  Get exposure to the rate through a Fidelity holding, though there are fees.
-- Vanguard VMFXX or VUSXX, again there are fees associated with these, but they are quite low.
+- Vanguard VMFXX or VUSXX, again there are fees associated with these, but they are quite low and offer some tax advantages.
 
 
 ## Local
@@ -36,4 +36,13 @@ According to [their site on 360 performance savings](https://www.capitalone.com/
 
 I didn't see as many additional promises, like 0 restrictions on external transfers, but this looks like a reasonable account with a somewhat lower APY.
 
+### Goldman Sachs (Marcus)
+
+According to [the page on high yield savings accounts](https://www.marcus.com/us/en/savings/high-yield-savings):
+- 3.5% APY
+- no minimum deposit, no fees
+- no withdrawal/transaction limit
+- same-day transfers of up to $100,000 to/from other banks
+- FDIC insured up to $250,000 per [the FAQs page](https://www.marcus.com/us/en/faqs)
+- According to [the FAQs page](https://www.marcus.com/us/en/faqs#maxlimits), there is a maximum account limit of $1m
 
