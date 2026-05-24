@@ -4,6 +4,9 @@
 
 Reverse mortgages are meant to be a way for older Americans to utilize their home equity without having to move out of their house.  
 
+## Useful references
+- [the FTC website on reverse mortgages](https://consumer.ftc.gov/articles/reverse-mortgages)
+- [the HUD website on reverse mortgages](https://www.hud.gov/hud-partners/single-family-hecmhome)
 
 ## Eligibility
 
@@ -64,6 +67,10 @@ Borrowers must still maintain their home, stay up-to-date on property taxes, and
 ### Must carefully read terms and conditions
 
 Most reverse mortgages have a non-recourse clause, where you can't owe more than the value of the home when it's sold.  Further, most have a reasonable allowance for hospital stays or long-term care before the borrower is considered to have moved out.  Nevertheless, you must carefully read the terms and conditions of the reverse mortgage to be sure that there are no surprises when the loan comes due or if the borrower endures a long hospital stay.
+
+### Targeted toward a vulnerable population
+
+People considering reverse mortgages are necessarily older Americans who need money they can't easily access in another way.  Borrowers should consider that they may be targeted by unscrupulous actors who see a desperate person, willing to pay any cost if promised quick and easy cash.
 
 ## Alternatives
 
