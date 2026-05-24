@@ -5,8 +5,9 @@
 Reverse mortgages are meant to be a way for older Americans to utilize their home equity without having to move out of their house.  
 
 ## Useful references
-- [the FTC website on reverse mortgages](https://consumer.ftc.gov/articles/reverse-mortgages)
-- [the HUD website on reverse mortgages](https://www.hud.gov/hud-partners/single-family-hecmhome)
+- [the FTC article on reverse mortgages](https://consumer.ftc.gov/articles/reverse-mortgages)
+- [the HUD article on reverse mortgages](https://www.hud.gov/hud-partners/single-family-hecmhome)
+- [the CFPB article on reverse mortgages](https://www.consumerfinance.gov/ask-cfpb/what-is-a-reverse-mortgage-en-224/)
 
 ## Eligibility
 
