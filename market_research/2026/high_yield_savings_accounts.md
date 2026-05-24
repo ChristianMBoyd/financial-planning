@@ -22,7 +22,7 @@ According to [the information page on their cash account](https://support.wealth
 - only require $1 to open
 - pay a montly rate equivalent to 3.3% APY
 - unlimited transfers to/from account (free wire transfers to personal or title accounts)
-- no fees of any kind
+- no fees
 - FDIC insured up to $8m
 
 There is an introductory 3-month period, where new clients receive an additional 0.65%, or a montly rate equivalent to 3.95% APY if it were to continue through the year, on amounts up to $150,000.
@@ -40,14 +40,15 @@ I didn't see as many additional promises, like 0 restrictions on external transf
 
 According to [the page on high yield savings accounts](https://www.marcus.com/us/en/savings/high-yield-savings):
 - 3.5% APY
-- no minimum deposit, no fees
+- no minimum deposit
+- no fees
 - no withdrawal/transaction limit
 - same-day transfers of up to $100,000 to/from other banks
 - FDIC insured up to $250,000 per [the FAQs page](https://www.marcus.com/us/en/faqs)
 - According to [the FAQs page](https://www.marcus.com/us/en/faqs#maxlimits), there is a maximum account limit of $1m
 
 
-## Ally
+### Ally
 
 According to [the savings account page](https://www.ally.com/bank/online-savings-account/):
 - 3.1% APY
@@ -57,3 +58,15 @@ According to [the savings account page](https://www.ally.com/bank/online-savings
 - 10 transfer limit per statement cycle (presumably, one month +/- a day or two); may close account if continually exceeding
 
 Online users appear to enjoy Ally's savings buckets, and other savings tools, beyond just APY and low fees.
+
+
+### SoFI
+
+According to [their online savings account site](https://www.sofi.com/banking/high-yield-savings-account/):
+- 3.3% APY
+- no minimum balance
+- no fees
+- FDIC insured the standard amount ($250,000), but offers a deposit program for up to $3m
+- no withdrawal limits
+
+There's an introductory 0.70% boost for 6 months (requires direct deposit), for monthly payouts equal to 4% APY during that introductory period.
