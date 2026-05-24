@@ -27,3 +27,13 @@ According to [the information page on their cash account](https://support.wealth
 
 There is an introductory 3-month period, where new clients receive an additional 0.65%, or a montly rate equivalent to 3.95% APY if it were to continue through the year, on amounts up to $150,000.
 
+### Discover (Capital One)
+
+According to [their site on 360 performance savings](https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/):
+- 3.10% APY
+- FDIC insured (looks like only up to $250,000 according to [their page on FDIC details](https://www.capitalone.com/bank/fdic/))
+- no minimums
+
+I didn't see as many additional promises, like 0 restrictions on external transfers, but this looks like a reasonable account with a somewhat lower APY.
+
+
