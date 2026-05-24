@@ -15,7 +15,7 @@ According to [the FTC website on reverse mortgages](https://consumer.ftc.gov/art
 - live in the property used as collateral, which must be your primary residence
 - have significant equity (own most of your home)
 - have income to maintain the property during the reverse mortgage period (insurance/taxes)
-- participate in a counseling session with [a HUD counselor](https://answers.hud.gov/housingcounseling/s) to determine suitability
+- participate in a counseling session with [a HUD counselor](https://answers.hud.gov/housingcounseling/s) to determine suitability (this typically costs $125 or more)
 - not have outstanding federal debt, like unpaid taxes (or other risks for asset garnishment or forfeiture)
 
 ## Types of reverse mortgages
