@@ -26,9 +26,25 @@ Social security benefits scale with the CPI-W, which is the Consumer Price Index
 
 Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
 
-## Taxes
+### International benefits
+
+If living outside the U.S., there are resources available on [the page for international operations](https://www.ssa.gov/foreign/).
 
 
+## Reduction in benefits
+
+### Taxes
+
+
+
+### Work penalties
+
+According to [the 2026 page on working while claiming social security](https://www.ssa.gov/faqs/en/questions/KA-01921.html):
+- below full retirement age for the full year, $1 is deducted from your benefits for every $2 you make above **$24,480**
+- in the year you reach full retirement age, $1 is deducted for every $3 you earn above **$65,160** across the months before you reach your full retirement age
+- after the month you reach full retirement age, there are no further deductions of your benefits
+
+These limits only apply to earned wages (e.g., W-2 earnings), not investment or other retirement benefits.  Further, any deductions are eventually paid back in real terms, as outlined in [this thorough pamphlet on work deductions](https://www.ssa.gov/pubs/EN-05-10069.pdf).  An example of how the above limits could work in practice is provided in [another information page on work deductions](https://www.ssa.gov/benefits/retirement/planner/whileworking.html#h2).
 
 
 ## Medicare
