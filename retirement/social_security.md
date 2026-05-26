@@ -42,7 +42,7 @@ According to [the 2026 page on working while claiming social security](https://w
 - in the year you reach full retirement age, $1 is deducted for every $3 you earn above **$65,160** across the months before you reach your full retirement age
 - after the month you reach full retirement age, there are no further deductions of your benefits
 
-These limits only apply to earned wages (e.g., W-2 earnings), not investment or other retirement benefits.  Further, any deductions are eventually paid back in real terms, as outlined in [this thorough pamphlet on work deductions](https://www.ssa.gov/pubs/EN-05-10069.pdf).  An example of how the above limits could work in practice is provided in [another information page on work deductions](https://www.ssa.gov/benefits/retirement/planner/whileworking.html#h2).
+These limits only apply to earned wages (e.g., W-2 earnings), not investment or other retirement benefits.  Further, any deductions are eventually paid back in real terms at your full retirement age, as outlined in [this thorough pamphlet on work deductions](https://www.ssa.gov/pubs/EN-05-10069.pdf).  An example of how the above limits could work in practice is provided in [another information page on work deductions](https://www.ssa.gov/benefits/retirement/planner/whileworking.html#h2).
 
 
 ## Medicare
