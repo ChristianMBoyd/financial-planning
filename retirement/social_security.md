@@ -6,7 +6,6 @@ These are general facts about social security.  Detailed derivations or analyses
 ## Open Questions
 - What are the precise penalties to working while claiming social security?
 - What are the specific taxes one should expect?
-- What’s the realistic uncertainty in long-term stability (political, economical, or otherwise) of social security?
 - What's the ideal strategy for discounting the increased social security payout for deferring until 70 vs. drawing down alternative funds like a 401(k)?
 
 ## Determining how much you'll get
