@@ -8,32 +8,32 @@ These are general facts about social security.  Detailed derivations or analyses
 - What are the specific taxes one should expect?
 - What's the ideal strategy for discounting the increased social security payout for deferring until 70 vs. drawing down alternative funds like a 401(k)?
 
-## Determining how much you'll get
+## Benefits
 
-You can log into https://www.ssa.gov/ using either an activate login.gov or id.me account.  Their web portal provides an estimator based on your current wages and earnings history.  It also provides a simple way to compare your benefit amounts based on claiming between 62 and 70 years of age.
-
-## Work Qualification
+### Qualifying
 
 Qualifying for a railroad pension explicitly disqualifies those railroad earnings from counting toward social security benefits.  See the railroad work section of [the earnings rules page](https://www.ssa.gov/prepare/special-earnings).
 
 There are varying degrees of benefits for work outside the U.S.  Each country with an agreement can be used to qualify for benefits, but cannot be used to double-dip beyond the point of qualification.  From the "work outside the United States" section of [the earnings rule page](https://www.ssa.gov/prepare/special-earnings): "_If you have enough credits in one country outside the U.S. but not the other, they won’t be combined. You'll only get benefits from the country where you qualify._"  Although, each country where you qualify can be claimed separately.
 
+### Determining how much you'll get
+
+You can log into https://www.ssa.gov/ using either an activate login.gov or id.me account.  Their web portal provides an estimator based on your current wages and earnings history.  It also provides a simple way to compare your benefit amounts based on claiming between 62 and 70 years of age.
+
+### Inflation
+
+Social security benefits scale with the CPI-W, which is the Consumer Price Index for Urban Wage Earners and Clerical Workers.  Historical increases can be found on [the social security website](https://www.ssa.gov/oact/cola/colaseries.html).  
+
+Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
 
 ## Taxes
 
-Social security income is _typically_ not taxed at the state level (**clarify!**) and can only have 85% of its value be considered in federal taxes.  [_Citation?_]
+
 
 
 ## Medicare
 
 In [the medicare document](./medicare.md), it's noted that the current costs are (**2026**) $202.90 per month, which is _deducted_ from social security.  As a result, your take-home social security amount will be reduced by _at least_ this amount once eligible for Medicare Part B, unless you choose another health insurance option in retirement.
-
-
-## Inflation
-
-Social security benefits scale with the CPI-W, which is the Consumer Price Index for Urban Wage Earners and Clerical Workers.  Historical increases can be found on [the social security website](https://www.ssa.gov/oact/cola/colaseries.html).  
-
-Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
 
 
 ## When to claim
