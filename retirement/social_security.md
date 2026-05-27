@@ -35,6 +35,8 @@ If living outside the U.S., there are resources available on [the page for inter
 
 #### Federal
 
+Supplement benefits to low income individuals, like SSI, are explicitly not taxed according to [the IRS page on social security benefits](https://www.irs.gov/newsroom/irs-reminds-taxpayers-their-social-security-benefits-may-be-taxable).
+
 There's [an online tool](https://www.irs.gov/help/ita/are-my-social-security-or-railroad-retirement-tier-i-benefits-taxable) meant to walk retirees through determining how much, if any, of their social security benefits are taxable.
 
 According to [the FAQ](https://www.irs.gov/faqs/social-security-income), taxability is determined by adding all non-social security income (including investment, interest, or other retirement income, but _excluding_ Roth IRA withdrawals) to _half_ of your social security benefit.  Your benefit will be taxed if:
