@@ -37,7 +37,7 @@ If living outside the U.S., there are resources available on [the page for inter
 
 There's [an online tool](https://www.irs.gov/help/ita/are-my-social-security-or-railroad-retirement-tier-i-benefits-taxable) meant to walk retirees through determining how much, if any, of their social security benefits are taxable.
 
-According to [the FAQ](https://www.irs.gov/faqs/social-security-income), taxability is determined by adding all non-social security income (including investment, interest, or other retirement income) to _half_ of your social security benefit.  Your benefit will be taxed if:
+According to [the FAQ](https://www.irs.gov/faqs/social-security-income), taxability is determined by adding all non-social security income (including investment, interest, or other retirement income, but _excluding_ Roth IRA withdrawals) to _half_ of your social security benefit.  Your benefit will be taxed if:
 - the sum of these amounts exceeds $25,000 and you're either single or married, filing jointly, and living separately
 - the sum of these amounts exceeds $32,000 and you're married, filing jointly, and living together
 - the sum of these amounts exceeds $0 and you're married but filing separately
