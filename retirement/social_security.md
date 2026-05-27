@@ -42,6 +42,8 @@ Most states don't tax social security benefits, but some do, including Missouri 
 
 According to [the Missouri department of revenue's page on pensions](https://dor.mo.gov/faq/taxation/individual/pension.html), there are deductions you can use to offset your social security income on a state tax basis.  It's currently for married couples making under $100,000, or single under $85,000, and over 62 or disabled.  There's also a partial exemption if you earn under the maximum benefit more than the previous limits.
 
+According to [the Kansas department of revenue FAQ](https://www.ksrevenue.gov/faqs-taxii.html), social security benefits included in federal adjusted gross income are not taxed at the state level.
+
 
 ### Work penalties
 
