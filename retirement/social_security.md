@@ -3,38 +3,79 @@
 These are general facts about social security.  Detailed derivations or analyses should be done elsewhere.
 
 
-## Open Questions
-- What are the precise penalties to working while claiming social security?
-- What are the specific taxes one should expect?
-- What’s the realistic uncertainty in long-term stability (political, economical, or otherwise) of social security?
-- What's the ideal strategy for discounting the increased social security payout for deferring until 70 vs. drawing down alternative funds like a 401(k)?
+## Benefits
 
-## Determining how much you'll get
-
-You can log into https://www.ssa.gov/ using either an activate login.gov or id.me account.  Their web portal provides an estimator based on your current wages and earnings history.  It also provides a simple way to compare your benefit amounts based on claiming between 62 and 70 years of age.
-
-## Work Qualification
+### Qualifying
 
 Qualifying for a railroad pension explicitly disqualifies those railroad earnings from counting toward social security benefits.  See the railroad work section of [the earnings rules page](https://www.ssa.gov/prepare/special-earnings).
 
 There are varying degrees of benefits for work outside the U.S.  Each country with an agreement can be used to qualify for benefits, but cannot be used to double-dip beyond the point of qualification.  From the "work outside the United States" section of [the earnings rule page](https://www.ssa.gov/prepare/special-earnings): "_If you have enough credits in one country outside the U.S. but not the other, they won’t be combined. You'll only get benefits from the country where you qualify._"  Although, each country where you qualify can be claimed separately.
 
+### Determining how much you'll get
 
-## Taxes
+You can log into https://www.ssa.gov/ using either an activate login.gov or id.me account.  Their web portal provides an estimator based on your current wages and earnings history.  It also provides a simple way to compare your benefit amounts based on claiming between 62 and 70 years of age.
 
-Social security income is _typically_ not taxed at the state level (**clarify!**) and can only have 85% of its value be considered in federal taxes.  [_Citation?_]
+### Inflation
+
+Social security benefits scale with the CPI-W, which is the Consumer Price Index for Urban Wage Earners and Clerical Workers.  Historical increases can be found on [the social security website](https://www.ssa.gov/oact/cola/colaseries.html).  
+
+Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
+
+### International benefits
+
+If living outside the U.S., there are resources available on [the page for international operations](https://www.ssa.gov/foreign/).
+
+
+## Reduction in benefits
+
+### Taxes
+
+#### Federal
+
+Supplement benefits to low income individuals, like SSI, are explicitly not taxed according to [the IRS page on social security benefits](https://www.irs.gov/newsroom/irs-reminds-taxpayers-their-social-security-benefits-may-be-taxable).
+
+There's [an online tool](https://www.irs.gov/help/ita/are-my-social-security-or-railroad-retirement-tier-i-benefits-taxable) meant to walk retirees through determining how much, if any, of their social security benefits are taxable.
+
+According to [the FAQ](https://www.irs.gov/faqs/social-security-income), taxability is determined by adding all non-social security income (including investment, interest, or other retirement income, but _excluding_ Roth IRA withdrawals) to _half_ of your social security benefit.  Your benefit will be taxed if:
+- the sum of these amounts exceeds $25,000 and you're either single or married, filing jointly, and living separately
+- the sum of these amounts exceeds $32,000 and you're married, filing jointly, and living together
+- the sum of these amounts exceeds $0 and you're married but filing separately
+
+For married, joint filers, this amount includes both spouse's social security benefits and additional incomes.
+
+According to [the IRS page on social security benefits](https://www.irs.gov/newsroom/irs-reminds-taxpayers-their-social-security-benefits-may-be-taxable), up to 50% of social security benefits are taxable if:
+- the sum of these amounts is between $25,000 and $34,000 and filing single, or married, jointly, and living separately
+- the sum of these amounts is between $32,000 and $44,000 and filing jointly, living together
+
+According to [the same IRS page on social security benefits](https://www.irs.gov/newsroom/irs-reminds-taxpayers-their-social-security-benefits-may-be-taxable), up to 85% may be taxable if:
+- the sum of these amounts exceeds $34,000 and you're single, or married, filing jointly, and living separately
+- the sum of these amounts exceeds $44,000 and you're married, filing jointly, and living together
+- you're married, living together, but filing separately
+
+The actual amount taxed is better explained in [a congressional CRS product on taxed retirement benefits](https://www.congress.gov/crs-product/R48613).  The amount taxed when in the second tier is the lesser of 50% of the social security benefits or 50% of provisional income _in excess of the lower threshold_.  The amount taxed in the higher tier is the lesser of 85% of benefits or 85% of provisional income above the second threshold plus the smaller amount of $4,500 ($6,000 for married filers) or 50% of social security benefits.  This article also goes on to show to examples and demonstrate how seniors could still owe a $0 tax bill with standard deductions + a senior deduction, which does not yet consider the one big beautiful bill deduction.
+
+#### State
+
+Most states don't tax social security benefits, but some do, including Missouri and Kansas.
+
+According to [the Missouri department of revenue's page on pensions](https://dor.mo.gov/faq/taxation/individual/pension.html), there are deductions you can use to offset your social security income on a state tax basis.  It's currently for married couples making under $100,000, or single under $85,000, and over 62 or disabled.  There's also a partial exemption if you earn under the maximum benefit more than the previous limits.
+
+According to [the Kansas department of revenue FAQ](https://www.ksrevenue.gov/faqs-taxii.html), social security benefits included in federal adjusted gross income are not taxed at the state level.
+
+
+### Work penalties
+
+According to [the 2026 page on working while claiming social security](https://www.ssa.gov/faqs/en/questions/KA-01921.html):
+- below full retirement age for the full year, $1 is deducted from your benefits for every $2 you make above **$24,480**
+- in the year you reach full retirement age, $1 is deducted for every $3 you earn above **$65,160** across the months before you reach your full retirement age
+- after the month you reach full retirement age, there are no further deductions of your benefits
+
+These limits only apply to earned wages (e.g., W-2 earnings), not investment or other retirement benefits.  Further, any deductions are eventually paid back in real terms at your full retirement age, as outlined in [this thorough pamphlet on work deductions](https://www.ssa.gov/pubs/EN-05-10069.pdf).  An example of how the above limits could work in practice is provided in [another information page on work deductions](https://www.ssa.gov/benefits/retirement/planner/whileworking.html#h2).
 
 
 ## Medicare
 
 In [the medicare document](./medicare.md), it's noted that the current costs are (**2026**) $202.90 per month, which is _deducted_ from social security.  As a result, your take-home social security amount will be reduced by _at least_ this amount once eligible for Medicare Part B, unless you choose another health insurance option in retirement.
-
-
-## Inflation
-
-Social security benefits scale with the CPI-W, which is the Consumer Price Index for Urban Wage Earners and Clerical Workers.  Historical increases can be found on [the social security website](https://www.ssa.gov/oact/cola/colaseries.html).  
-
-Despite providing at least _some_ inflation protection, there is criticism about this CPI-W mechanism.  A [2023 press release from "The Senior Citizens League"](https://seniorsleague.org/assets/LOBP-Study-2023.pdf) claims that real buying power lags by almost 36%; [an un-dated article](https://seniorsleague.org/social-security-benefits-lose-40-of-buying-power/) claims a more drastic 40% decrease in spending power, perhaps due to being written in the extreme inflation of the post-covid recovery.  Because this mechanism updates on a YoY basis, I suspect you lose spending power when you need it during periods of high inflation; however, that's somewhat similar to the experience of a typical wage earner, where wages lag inflation.
 
 
 ## When to claim
