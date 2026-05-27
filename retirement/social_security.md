@@ -55,6 +55,8 @@ According to [the same IRS page on social security benefits](https://www.irs.gov
 - the sum of these amounts exceeds $44,000 and you're married, filing jointly, and living together
 - you're married, living together, but filing separately
 
+The actual amount taxed is better explained in [a congressional CRS product on taxed retirement benefits](https://www.congress.gov/crs-product/R48613).  The amount taxed when in the second tier is the lesser of 50% of the social security benefits or 50% of provisional income _in excess of the lower threshold_.  The amount taxed in the higher tier is the lesser of 85% of benefits or 85% of provisional income above the second threshold plus the smaller amount of $4,500 ($6,000 for married filers) or 50% of social security benefits.
+
 #### State
 
 Most states don't tax social security benefits, but some do, including Missouri and Kansas.
