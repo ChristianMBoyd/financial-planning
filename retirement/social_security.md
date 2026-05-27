@@ -3,9 +3,6 @@
 These are general facts about social security.  Detailed derivations or analyses should be done elsewhere.
 
 
-## Open Questions
-- What are the specific taxes one should expect?
-
 ## Benefits
 
 ### Qualifying
