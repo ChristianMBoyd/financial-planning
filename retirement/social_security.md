@@ -44,6 +44,15 @@ According to [the FAQ](https://www.irs.gov/faqs/social-security-income), taxabil
 
 For married, joint filers, this amount includes both spouse's social security benefits and additional incomes.
 
+According to [the IRS page on social security benefits](https://www.irs.gov/newsroom/irs-reminds-taxpayers-their-social-security-benefits-may-be-taxable), up to 50% of social security benefits are taxable if:
+- the sum of these amounts is between $25,000 and $34,000 and filing single, or married, jointly, and living separately
+- the sum of these amounts is between $32,000 and $44,000 and filing jointly, living together
+
+According to [the same IRS page on social security benefits](https://www.irs.gov/newsroom/irs-reminds-taxpayers-their-social-security-benefits-may-be-taxable), up to 85% may be taxable if:
+- the sum of these amounts exceeds $34,000 and you're single, or married, filing jointly, and living separately
+- the sum of these amounts exceeds $44,000 and you're married, filing jointly, and living together
+- you're married, living together, but filing separately
+
 #### State
 
 Most states don't tax social security benefits, but some do, including Missouri and Kansas.
